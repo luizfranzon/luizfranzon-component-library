@@ -21,6 +21,10 @@
     "library",
     "tailwindcss"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizfranzon/luizfranzon-component-library"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
